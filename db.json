@@ -7,7 +7,7 @@
       "description": "Festival op De Schorre",
       "location": "Boom",
       "date": "August 8, 2021",
-      "time": "09:00",
+      "time": "09:00"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "description": "Festival Rock",
       "location": "Werchter",
       "date": "July 4, 2021",
-      "time": "09:00",
+      "time": "09:00"
     }
   ]
 }
