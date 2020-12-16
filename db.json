@@ -22,7 +22,7 @@
   "recepten":[
     {
       "id": 1,
-      "image": "../images/recept_1.jpg",
+      "image": "recept_1.jpg",
       "ingredients": [
           "4 witten van prei",
           "2 rode uien",
@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "image": "../images/recept_2.jpg",
+      "image": "recept_2.jpg",
       "ingredients": [
           "4 verse kipburgers American",
           "4 hamburgerbroodjes",
@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "image": "../images/recept_3.jpg",
+      "image": "recept_3.jpg",
       "ingredients": [
           "300 g spaghetti",
           "750 g diepvries gegrilde groenten (ontdooid)",
@@ -55,7 +55,7 @@
     },
     {
       "id": 4,
-      "image": "../images/recept_4.jpg",
+      "image": "recept_4.jpg",
       "ingredients": [
           "100g spaghetti",
           "50g gerookte spekreepjes",
@@ -66,7 +66,7 @@
     },
     {
       "id": 5,
-      "image": "../images/recept_5.jpg",
+      "image": "recept_5.jpg",
       "ingredients": [
           "300 g parelcouscous",
           "100 g gerookte spekreepjes",
@@ -77,7 +77,7 @@
     },
     {
       "id": 6,
-      "image": "../images/recept_6.jpg",
+      "image": "recept_6.jpg",
       "ingredients": [
           "300 g driekleurenquinoa",
           "2 eetrijpe mango's",
