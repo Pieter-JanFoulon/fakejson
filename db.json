@@ -24,15 +24,9 @@
       "id": 1,
       "image": "../images/recept_1.jpg",
       "ingredients": [
-        [
-          "4 witten van prei"
-        ],
-        [
-          "2 rode uien"
-        ],
-        [
+          "4 witten van prei",
+          "2 rode uien",
           "600g steenbokfilet"
-        ]
       ],
       "description": "Ovenschotel van steenbolk met prei en garnaaltjes",
       "personen": 4
