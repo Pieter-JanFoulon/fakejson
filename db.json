@@ -35,18 +35,10 @@
       "id": 2,
       "image": "../images/recept_2.jpg",
       "ingredients": [
-        [
-          1,
-          "4 verse kipburgers American"
-        ],
-        [
-          2,
-          "4 hamburgerbroodjes"
-        ],
-        [
+          "4 verse kipburgers American",
+          "4 hamburgerbroodjes",
           3,
           "380 g tastytom-trostomaten"
-        ]
       ],
       "description": "Brood­je kip­bur­ger met sla, to­maat & cae­s­ardres­sing",
       "personen": 4
@@ -55,18 +47,9 @@
       "id": 3,
       "image": "../images/recept_3.jpg",
       "ingredients": [
-        [
-          1,
-          "300 g spaghetti"
-        ],
-        [
-          2,
-          "750 g diepvries gegrilde groenten (ontdooid)"
-        ],
-        [
-          3,
+          "300 g spaghetti",
+          "750 g diepvries gegrilde groenten (ontdooid)",
           "700 ml kokend water"
-        ]
       ],
       "description": "Ro­mi­ge pas­ta met kip en ge­gril­de groen­te",
       "personen": 4
@@ -75,18 +58,9 @@
       "id": 4,
       "image": "../images/recept_4.jpg",
       "ingredients": [
-        [
-          1,
-          "100g spaghetti"
-        ],
-        [
-          2,
-          "50g gerookte spekreepjes"
-        ],
-        [
-          3,
+          "100g spaghetti",
+          "50g gerookte spekreepjes",
           "25g Parmezaanse kaas"
-        ]
       ],
       "description": "Pasta carbonara voor 1",
       "personen": 1
@@ -95,18 +69,9 @@
       "id": 5,
       "image": "../images/recept_5.jpg",
       "ingredients": [
-        [
-          1,
-          "300 g parelcouscous"
-        ],
-        [
-          2,
-          "100 g gerookte spekreepjes"
-        ],
-        [
-          3,
+          "300 g parelcouscous",
+          "100 g gerookte spekreepjes",
           "400 g verse spinazie"
-        ]
       ],
       "description": "Pa­rel­cous­cous met pes­to, spek­jes en spi­na­zie",
       "personen": 4
@@ -115,18 +80,9 @@
       "id": 6,
       "image": "../images/recept_6.jpg",
       "ingredients": [
-        [
-          1,
-          "300 g driekleurenquinoa"
-        ],
-        [
-          2,
-          "2 eetrijpe mango's"
-        ],
-        [
-          3,
+          "300 g driekleurenquinoa",
+          "2 eetrijpe mango's",
           "150 g gerookte kipfilet (stuk)"
-        ]
       ],
       "description": "Maal­tijd­sa­la­de kip, man­go en gei­ten­kaas",
       "personen": 4
